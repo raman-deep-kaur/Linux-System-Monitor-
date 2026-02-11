@@ -1,0 +1,24 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdb        251G  1.2G  238G   1% /
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+tools           238G  183G   56G  77% /init
+none            1.9G     0  1.9G   0% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G     0  1.9G   0% /run/user
+tmpfs           1.9G     0  1.9G   0% /sys/fs/cgroup
+drivers         238G  183G   56G  77% /usr/lib/wsl/drivers
+lib             238G  183G   56G  77% /usr/lib/wsl/lib
+drvfs           238G  183G   56G  77% /mnt/c
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       226Mi       3.6Gi        64Ki        63Mi       3.5Gi
+Swap:          1.0Gi          0B       1.0Gi
+ 22:54:35 up  3:10,  0 user,  load average: 0.00, 0.00, 0.00
+8
+  PID COMMAND         %CPU
+  177 enhanced-NodeHe 14.2
+    8 init             0.0
+    9 bash             0.0
+    1 init             0.0
+    7 init             0.0
+-- No entries --
