@@ -219,23 +219,5 @@ This repository demonstrates:
 
 ---
 
-##  About Me
 
-**Kitan**
-- GitHub: [@Kitancodes](https://github.com/Kitancodes)
-- Currently learning: DevOps Engineering
-- Location: Lagos, Nigeria
-- Focus: Building real projects while learning fundamentals
 
----
-
-##  Notes
-
-- Old script versions are in `archive/` folder for reference
-- Active monitoring scripts are in `scripts/` folder
-- Backup automation and CI/CD files are in the root directory
-- All scripts are tested and functional
-
----
-
-**Building in public. Learning by doing.** 
