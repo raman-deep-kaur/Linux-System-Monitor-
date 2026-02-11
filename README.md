@@ -1,7 +1,7 @@
 
 #  Linux System Monitor & DevOps Automation
 
-![CI/CD Status](https://github.com/Kitancodes/linux-system-monitor/actions/workflows/bash-ci.yml/badge.svg)
+
 
 A collection of DevOps projects showcasing system monitoring, backup automation, and CI/CD pipeline implementation. Built as part of my DevOps learning journey.
 
